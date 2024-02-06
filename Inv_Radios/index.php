@@ -27,7 +27,18 @@
                     <div class="form-group">
                         <input type="text" name="Serial" class="form-control" placeholder="Numero de Serial" autofocus>
                     </div>
-                    
+                    <div class="form-group">
+                        <input type="text" name="Placa" class="form-control" placeholder="Placa Sepecol" autofocus>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" name="bateria" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" name="Cli" class="form-control" placeholder="Cli">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" name="Cargador" class="form-control" placeholder="Cargadoras">
+                    </div>
                 </form>
             </div>
 
