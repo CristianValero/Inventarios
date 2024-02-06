@@ -24,6 +24,10 @@
                     <div class="form-group">
                         <input type="text" name="Modelo" class="form-control" placeholder="Modelo del Equipo" autofocus>
                     </div>
+                    <div class="form-group">
+                        <input type="text" name="Serial" class="form-control" placeholder="Numero de Serial" autofocus>
+                    </div>
+                    
                 </form>
             </div>
 
